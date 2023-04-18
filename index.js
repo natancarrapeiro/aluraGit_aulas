@@ -1,1 +1,1 @@
-alert("hello git")
+alert("modificação em outro branch")
